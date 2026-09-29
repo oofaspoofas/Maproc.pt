@@ -1,0 +1,146 @@
+{
+  "nav": [
+    {
+      "text": "Facebook-f",
+      "href": "https://www.facebook.com/maprocessamento"
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/@maprocportugal6805"
+    },
+    {
+      "text": "Linkedin-in",
+      "href": "https://www.linkedin.com/company/m%C3%A1quinas-e-processos-para-chapa/"
+    },
+    {
+      "text": "Sobre nós",
+      "href": "https://maproc.pt/sobre-maproc/"
+    },
+    {
+      "text": "Chapa",
+      "href": "#"
+    },
+    {
+      "text": "LVD",
+      "href": "https://maproc.pt/portfolios/maquinas-corte-laser/"
+    },
+    {
+      "text": "Corte a Laser",
+      "href": "https://maproc.pt/portfolios/maquinas-corte-laser/"
+    },
+    {
+      "text": "Quinadoras",
+      "href": "https://maproc.pt/portfolios/bystronic-quinadoras/"
+    },
+    {
+      "text": "Corte Tubo a Laser",
+      "href": "https://maproc.pt/portfolios/bystronic-corte-tubo-laser/"
+    },
+    {
+      "text": "ESAB",
+      "href": "https://maproc.pt/portfolios/esab-maquinas-cnc/"
+    },
+    {
+      "text": "Flow",
+      "href": "#"
+    },
+    {
+      "text": "Impressão metálica 3D",
+      "href": "#"
+    },
+    {
+      "text": "Estrutura Metálica",
+      "href": "#"
+    },
+    {
+      "text": "Voortman",
+      "href": "#"
+    },
+    {
+      "text": "Contactos",
+      "href": "https://maproc.pt/contact/"
+    },
+    {
+      "text": "Contactos",
+      "href": "https://maproc.pt/contact/"
+    }
+  ],
+  "footer_blocks": [
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/01/logo72.png",
+      "alt": "logo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esteja atento às nossas novidades.Subscreva a nossa newsletter."
+    },
+    {
+      "type": "image",
+      "src": "https://industrie.rstheme.com/main/wp-content/uploads/2024/01/arrow.svg",
+      "alt": "image"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sobre nós"
+    },
+    {
+      "type": "paragraph",
+      "text": "A MAPROC é especializada em máquinas corte a laser e em processos e equipamentos de corte e deformação de chapa, com mais de 35 anos de experiência em lasers industriais."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Links Úteis"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "LVD | Corte tubo a laser",
+        "LVD | Quinadoras",
+        "LVD | Corte a laser",
+        "ESAB | Máquinas CNC"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Morada Sede"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Email"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Propostas comerciais",
+        "[email protected]",
+        "Recrutamento",
+        "[email protected]"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Telefone"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Aveiro",
+        "+351 234 096 465"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Segue-nos"
+    }
+  ]
+}

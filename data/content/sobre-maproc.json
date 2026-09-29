@@ -1,0 +1,230 @@
+{
+  "slug": "sobre-maproc",
+  "title": "Sobre - MAPROC | WE SERVE SUCCESS",
+  "canonical": "https://maproc.pt/sobre-maproc/",
+  "meta_description": "Sobre a MAPROC A empresa raiz nasce em 1994 e o seu foco é o mercado ibérico. A MAPROC é especializada em máquinas corte a laser e em processos e equipamentos de corte e deformação de chapa, História Missão Visão A MAPROC é especializada em máquinas corte a laser e em processos e equipamentos de...",
+  "og_image": "https://maproc.pt/wp-content/uploads/2024/06/specialist.jpg",
+  "language": "pt-PT",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/03/logo1.png",
+      "alt": "MAPROC | WE SERVE SUCCESS"
+    },
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/06/specialist.jpg",
+      "alt": "specialist bystronic"
+    },
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/06/helder-ramires2.jpg",
+      "alt": "image"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "A empresa raiz nasce em 1994 e o seu foco é o mercado ibérico."
+    },
+    {
+      "type": "paragraph",
+      "text": "A MAPROC é especializada em máquinas corte a laser e em processos e equipamentos de corte e deformação de chapa,"
+    },
+    {
+      "type": "paragraph",
+      "text": "A MAPROC é especializada em máquinas corte a laser e em processos e equipamentos de corte e deformação de chapa, com mais de 30 anos de experiência em lasers industriais."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Crescemos consigo.",
+        "Tivemos o seu sucesso!"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "O nosso objetivo é a promoção de tecnologias de produção no mercado metalúrgico e metalomecânico."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Experiência",
+        "Confiança"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Desenvolvendo para isso competências internas e externas, que procuram a automatização, o aumento da eficiência, eficácia e redução de custos no processamento de chapa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Provemos e disponibilizamos em Portugal soluções inteligentes, flexíveis e adaptadas à realidade de cada parceiro. Estamos cá para o seu sucesso."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Desenvolvemos projectos de raiz",
+        "Construir o seu sucesso."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/06/hr.jpg",
+      "alt": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Helder Ramires"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Equipamentos metalomecânicos de elevada qualidade."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Preços de aço inoxidável e níquel."
+    }
+  ],
+  "widgets": [
+    {
+      "widget": "image",
+      "text": [],
+      "images": [
+        {
+          "src": "https://maproc.pt/wp-content/uploads/2024/06/specialist.jpg",
+          "alt": "specialist bystronic"
+        }
+      ],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-image",
+      "text": [],
+      "images": [
+        {
+          "src": "https://maproc.pt/wp-content/uploads/2024/06/helder-ramires2.jpg",
+          "alt": "image"
+        }
+      ],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-heading",
+      "text": [
+        "Sobre a MAPROC",
+        "A empresa raiz nasce em 1994 e o seu foco é o mercado ibérico.",
+        "A MAPROC é especializada em máquinas corte a laser e em processos e equipamentos de corte e deformação de chapa,"
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-tab-advanced",
+      "text": [
+        "A MAPROC é especializada em máquinas corte a laser e em processos e equipamentos de corte e deformação de chapa, com mais de 30 anos de experiência em lasers industriais.",
+        "Crescemos consigo.",
+        "Tivemos o seu sucesso!",
+        "O nosso objetivo é a promoção de tecnologias de produção no mercado metalúrgico e metalomecânico.",
+        "Experiência",
+        "Confiança",
+        "Desenvolvendo para isso competências internas e externas, que procuram a automatização, o aumento da eficiência, eficácia e redução de custos no processamento de chapa.",
+        "Provemos e disponibilizamos em Portugal soluções inteligentes, flexíveis e adaptadas à realidade de cada parceiro. Estamos cá para o seu sucesso.",
+        "Desenvolvemos projectos de raiz",
+        "Construir o seu sucesso.",
+        "História",
+        "A MAPROC é especializada em máquinas corte a laser e em processos e equipamentos de corte e deformação de chapa, com mais de 30 anos de experiência em lasers industriais.",
+        "Crescemos consigo.",
+        "Tivemos o seu sucesso!",
+        "Missão",
+        "O nosso objetivo é a promoção de tecnologias de produção no mercado metalúrgico e metalomecânico.",
+        "Experiência",
+        "Confiança",
+        "Visão",
+        "Desenvolvendo para isso competências internas e externas, que procuram a automatização, o aumento da eficiência, eficácia e redução de custos no processamento de chapa.",
+        "Provemos e disponibilizamos em Portugal soluções inteligentes, flexíveis e adaptadas à realidade de cada parceiro. Estamos cá para o seu sucesso.",
+        "Desenvolvemos projectos de raiz",
+        "Construir o seu sucesso."
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-button",
+      "text": [
+        "Contacte-nos"
+      ],
+      "images": [],
+      "links": [
+        {
+          "text": "Contacte-nos",
+          "href": "https://industrie.rstheme.com/main/about/"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "widget": "image",
+      "text": [],
+      "images": [
+        {
+          "src": "https://maproc.pt/wp-content/uploads/2024/06/hr.jpg",
+          "alt": ""
+        }
+      ],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "text-editor",
+      "text": [
+        "Helder Ramires"
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-heading",
+      "text": [
+        "Arranca o teu projeto",
+        "Equipamentos metalomecânicos",
+        "de elevada qualidade."
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-button",
+      "text": [
+        "Contacte-nos"
+      ],
+      "images": [],
+      "links": [
+        {
+          "text": "Contacte-nos",
+          "href": "https://maproc.pt/contact/"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "widget": "heading",
+      "text": [
+        "Preços de aço inoxidável e níquel."
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    }
+  ]
+}

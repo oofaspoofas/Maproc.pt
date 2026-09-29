@@ -1,0 +1,119 @@
+{
+  "slug": "category_quinadoras",
+  "title": "Arquivo de Quinadoras - MAPROC | WE SERVE SUCCESS",
+  "canonical": null,
+  "meta_description": null,
+  "og_image": "https://maproc.pt/wp-content/uploads/2024/06/desktop1.jpg",
+  "language": "pt-PT",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/03/logo1.png",
+      "alt": "MAPROC | WE SERVE SUCCESS"
+    },
+    {
+      "type": "image",
+      "src": "https://www.flowwaterjet.com.br/getattachment/ce5be6a6-0f35-4933-8ff4-f0a578b75014/flow_50th_option-2.svg",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tecnologia de Corte com Jato de Água."
+    },
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/05/quinadora.jpg",
+      "alt": ""
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "By ricardo",
+        "Maio 21, 2024"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "LVD Quinadoras"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Recent Posts"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Recent Comments"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Archives"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Categories"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Sem categorias"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Search Here"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Categorias"
+    }
+  ],
+  "widgets": [
+    {
+      "widget": "rs-breadcrumb",
+      "text": [
+        "MAPROC | WE SERVE SUCCESS",
+        ">",
+        "Quinadoras"
+      ],
+      "images": [],
+      "links": [
+        {
+          "text": "MAPROC | WE SERVE SUCCESS",
+          "href": "https://maproc.pt"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "widget": "image",
+      "text": [],
+      "images": [
+        {
+          "src": "https://www.flowwaterjet.com.br/getattachment/ce5be6a6-0f35-4933-8ff4-f0a578b75014/flow_50th_option-2.svg",
+          "alt": ""
+        }
+      ],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "heading",
+      "text": [
+        "Tecnologia de Corte com Jato de Água."
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    }
+  ]
+}

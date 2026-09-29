@@ -1,0 +1,21 @@
+{
+  "slug": "newsletter",
+  "title": "Newsletter - MAPROC | WE SERVE SUCCESS",
+  "canonical": "https://maproc.pt/newsletter/",
+  "meta_description": null,
+  "og_image": "https://maproc.pt/wp-content/uploads/2024/06/desktop1.jpg",
+  "language": "pt-PT",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/03/logo1.png",
+      "alt": "MAPROC | WE SERVE SUCCESS"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Newsletter"
+    }
+  ],
+  "widgets": []
+}

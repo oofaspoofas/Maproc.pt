@@ -1,0 +1,25 @@
+{
+  "slug": "inscricao-na-newsletter",
+  "title": "- MAPROC | WE SERVE SUCCESS",
+  "canonical": "https://maproc.pt/inscricao-na-newsletter/",
+  "meta_description": null,
+  "og_image": "https://maproc.pt/wp-content/uploads/2024/06/desktop1.jpg",
+  "language": "pt-PT",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/03/logo1.png",
+      "alt": "MAPROC | WE SERVE SUCCESS"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Insira o seu email se quer mesmo remover da lista."
+    },
+    {
+      "type": "paragraph",
+      "text": "Caso não consiga remover por favor enviar email para [email protected]"
+    }
+  ],
+  "widgets": []
+}

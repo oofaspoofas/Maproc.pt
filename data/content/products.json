@@ -1,0 +1,232 @@
+{
+  "meta": {
+    "brand_notes": {
+      "HBD": "Founded 2007, Guangdong & Shanghai (China); SGS-CE, ISO9001, AS9100D certified; 200+ patented technologies, 30+ invention patents; serves aerospace, dental, orthopaedic, moulds & dies, automotive, oil & gas, education & research (homepage copy).",
+      "Voortman": "Logo on homepage 'Representante Oficial' strip and nav item 'Voortman' / 'Estrutura Metálica' (both '#'), but no page or product content exists.",
+      "Representante Oficial": "Homepage 'Representante Oficial' logo strip, in order: LVD (transferir.png), Flow, ESAB, HBD, Voortman. Bystronic is sold (own page + nav) but has no logo in that strip."
+    },
+    "sales_contact": {
+      "role": "Gestor Comercial",
+      "name": "Helder Ramires (also shown as 'CEO MAPROC' in a quote)",
+      "phone": "+351 919 847 589",
+      "availability": "08:00 às 21h00",
+      "territory": "Portugal / Espanha"
+    }
+  },
+  "products": [
+    {
+      "brand": "Bystronic",
+      "category": "Corte a Laser",
+      "page": "https://maproc.pt/portfolios/maquinas-corte-laser/",
+      "name": "ByCut Star 4020",
+      "description_pt": "Ainda mais chapa metálica, ainda mais produtividade. Com a mesma alta potência do laser, para chapas metálicas maiores, aumente ainda mais a sua produção.",
+      "specs": [],
+      "catalog_url": "https://btp.bystronic.com//api/collection/search/40ac38f5dd6869e643d1787d9a42425d244b232901c9594389eed9ca884d1770/sp007/Bystronic/plain",
+      "cta": "Pedir cotação",
+      "note": "Site lists the catalog link under the typo 'PorCut Star'."
+    },
+    {
+      "brand": "Bystronic",
+      "category": "Corte a Laser",
+      "page": "https://maproc.pt/portfolios/maquinas-corte-laser/",
+      "name": "ByStar Fibra",
+      "description_pt": "O ByStar Fiber é incrivelmente rápido. Com potência de até 20 quilowatts, processa os pedidos com corte a laser de fibra em tempo recorde.",
+      "specs": [
+        "Potência do laser: até 20 kW"
+      ],
+      "catalog_url": "https://btp.bystronic.com//api/collection/search/89e8df953609c88f6e426c1d458f67fb1e37baa6f7f161fc1168c50eb7ec370c/sp007/Bystronic/plain",
+      "cta": "Pedir cotação"
+    },
+    {
+      "brand": "Bystronic",
+      "category": "Corte a Laser",
+      "page": "https://maproc.pt/portfolios/maquinas-corte-laser/",
+      "name": "ByCut Smart",
+      "description_pt": "A máquina a laser de fibra para forte desempenho. Sistema de corte a laser de fibra XXL com potência de laser de até 15 kW, processa folhas de até 40,02 x 8,20 pés.",
+      "specs": [
+        "Potência do laser: até 15 kW",
+        "Formato máximo: 40,02 x 8,20 pés (as published on the site)"
+      ],
+      "catalog_url": "https://btp.bystronic.com//api/collection/search/db32ee5fd07b8ac5c03c3ea4b377b8eb2e802d7d035f17b939d20aae0ff7c10b/sp007/Bystronic/plain",
+      "cta": "Pedir cotação",
+      "note": "Site catalog labels are inconsistent: 'ByCut Inteligente' and 'BySmart Fibra' both appear; check which maps to ByCut Smart."
+    },
+    {
+      "brand": "Bystronic",
+      "category": "Corte a Laser",
+      "page": "https://maproc.pt/portfolios/maquinas-corte-laser/",
+      "name": "ByCut Eco",
+      "description_pt": "Um sistema de corte a laser de alta qualidade com uma relação preço-desempenho atraente: o ByCut Eco 3015/4020 é fácil de operar e projetado para funcionalidade, ideal para dar os primeiros passos no corte a laser de fibra.",
+      "specs": [
+        "Formatos: 3015 / 4020"
+      ],
+      "cta": "Pedir cotação"
+    },
+    {
+      "brand": "Bystronic",
+      "category": "Automação",
+      "page": "https://maproc.pt/portfolios/maquinas-corte-laser/",
+      "name": "Robot Installation (automação)",
+      "description_pt": "Soluções de automação com processo de carregamento de chapas totalmente automático, com controlo de peso no elevador. Para uma produção automatizada confiável e segura.",
+      "specs": [],
+      "cta": "Pedir cotação"
+    },
+    {
+      "brand": "LVD",
+      "category": "Quinadoras",
+      "page": "https://maproc.pt/portfolios/quinadoras-novas/",
+      "name": "ToolCell",
+      "description_pt": "Quinadora CNC hidráulica para lotes pequenos a médios, com troca automática de ferramentas, armazém de ferramentas integrado e sistema Easy-Form® Laser. Compatível com Indústria 4.0.",
+      "specs": [
+        "Capacidade de quinagem: 135 a 220 toneladas",
+        "Encosto traseiro modular de 6 eixos",
+        "Trocador rápido de ferramentas + grande armazém de ferramentas",
+        "Acionamento de frequência variável",
+        "Sistema hidráulico servo-controlado com encoders lineares"
+      ],
+      "cta": "Fale connosco"
+    },
+    {
+      "brand": "LVD",
+      "category": "Quinadoras",
+      "page": "https://maproc.pt/portfolios/quinadoras-novas/",
+      "name": "Easy-Form® Laser (EFL) / série Easy-Form®",
+      "description_pt": "Dobra adaptativa: a informação digital é transmitida em tempo real ao CNC, que ajusta a posição do punção para garantir o ângulo correto na primeira dobra, sem interromper a produção. A série Easy-Form® (home) cobre capacidades de 80 a 640 toneladas.",
+      "specs": [
+        "Capacidades da série (homepage): 80 a 640 tons"
+      ]
+    },
+    {
+      "brand": "LVD",
+      "category": "Corte a Laser Tubo",
+      "page": "https://maproc.pt/portfolios/corte-laser-tubo/",
+      "name": "TL 2665",
+      "description_pt": "Construída para cortar com eficiência uma variedade de tubos e perfis. Funções de configuração e execução automática; carregador frontal de 7 posições para carregamento semiautomático em grandes volumes.",
+      "specs": [
+        "Carregador frontal de 7 posições",
+        "Proteção anticolisão vertical e rotacional",
+        "Distância de afastamento automática entre bico e material"
+      ],
+      "cta": "Peça o catálogo aos nossos comerciais"
+    },
+    {
+      "brand": "LVD",
+      "category": "Corte a Laser Tubo",
+      "page": "https://maproc.pt/portfolios/corte-laser-tubo/",
+      "name": "TL 8525",
+      "description_pt": "Modelo de corte a laser de tubo 2D e 3D da gama LVD (sem descrição individual no site).",
+      "specs": [],
+      "catalog_url": "https://btp.bystronic.com//api/collection/search/d5321e502cd1f3f52c0d133361e3c0fd72549086b81e8ba6a588df52a18402a9/sp017/Bystronic/plain",
+      "cta": "Peça o catálogo aos nossos comerciais"
+    },
+    {
+      "brand": "ESAB",
+      "category": "Máquinas CNC",
+      "page": "https://maproc.pt/portfolios/esab-maquinas-cnc/",
+      "name": "Combirex CS",
+      "description_pt": "Sistema de corte CNC ESAB (sem descrição individual no site).",
+      "specs": [],
+      "catalog_url": "https://assets.esab.com/assetbank-esab/assetfile/46115.pdf?_gl=1*55byko*_gcl_au*MTYwMTk4MDY3MC4xNzE1NTIyMjgy*_ga*Mzk5MDQ4NjI2LjE3MTU1MjIyODM.*_ga_YQPB78L5VL*MTcxODcwNzk2Ni40LjAuMTcxODcwNzk2Ni42MC4wLjA."
+    },
+    {
+      "brand": "ESAB",
+      "category": "Máquinas CNC",
+      "page": "https://maproc.pt/portfolios/esab-maquinas-cnc/",
+      "name": "Suprarex™ HDX",
+      "description_pt": "Sistema de corte CNC ESAB (sem descrição individual no site).",
+      "specs": [],
+      "catalog_url": "https://assets.esab.com/assetbank-esab/assetfile/15397?_gl=1*mxdgms*_gcl_au*NjU4OTQzNjMyLjE3MTkwMDQzMzE.*_ga*MzI2OTY3OTg3LjE3MTkwMDQzMzI.*_ga_YQPB78L5VL*MTcxOTAwNDMzMS4xLjEuMTcxOTAwNTM1NS4xMy4wLjA."
+    },
+    {
+      "brand": "ESAB",
+      "category": "Máquinas CNC",
+      "page": "https://maproc.pt/portfolios/esab-maquinas-cnc/",
+      "name": "Phoenix CS",
+      "description_pt": "Sistema de corte CNC ESAB (sem descrição individual no site).",
+      "specs": []
+    },
+    {
+      "brand": "ESAB",
+      "category": "Máquinas CNC",
+      "page": "https://maproc.pt/portfolios/esab-maquinas-cnc/",
+      "name": "Shark CS",
+      "description_pt": "Sistema de corte CNC ESAB (sem descrição individual no site).",
+      "specs": [],
+      "catalog_url": "https://btp.bystronic.com//api/collection/search/8772a321b6bf3a1c21c9ce5928066e59f58df6606a17c936bef6697d59378db4/sp007/Bystronic/plain?_ga=2.192316970.1888188752.1665596182-1117785930.1665596182",
+      "note": "Site link points to a Bystronic catalog (btp.bystronic.com) — wrong link, do not reuse."
+    },
+    {
+      "brand": "ESAB",
+      "category": "Máquinas CNC",
+      "page": "https://maproc.pt/portfolios/esab-maquinas-cnc/",
+      "name": "Crossbow HD",
+      "description_pt": "Sistema de corte CNC ESAB (sem descrição individual no site).",
+      "specs": []
+    },
+    {
+      "brand": "ESAB",
+      "category": "Máquinas CNC",
+      "page": "https://maproc.pt/portfolios/esab-maquinas-cnc/",
+      "name": "Ergostar EXA",
+      "description_pt": "Sistema de corte CNC ESAB (sem descrição individual no site).",
+      "specs": []
+    },
+    {
+      "brand": "Flow",
+      "category": "Corte Jato de Água",
+      "page": "https://maproc.pt/portfolios/corte-jato-de-agua/",
+      "name": "Série Mach",
+      "specs": [],
+      "note": "Named on homepage only ('Corte praticamente qualquer material, qualquer forma, qualquer espessura com um jato de água Flow'). The water-jet page itself contains no Flow model content."
+    },
+    {
+      "brand": "Flow",
+      "category": "Corte Jato de Água",
+      "page": "https://maproc.pt/portfolios/corte-jato-de-agua/",
+      "name": "Echo Jet",
+      "specs": [],
+      "note": "Named on homepage only ('Corte praticamente qualquer material, qualquer forma, qualquer espessura com um jato de água Flow'). The water-jet page itself contains no Flow model content."
+    },
+    {
+      "brand": "Flow",
+      "category": "Corte Jato de Água",
+      "page": "https://maproc.pt/portfolios/corte-jato-de-agua/",
+      "name": "Nano Jet",
+      "specs": [],
+      "note": "Named on homepage only ('Corte praticamente qualquer material, qualquer forma, qualquer espessura com um jato de água Flow'). The water-jet page itself contains no Flow model content."
+    },
+    {
+      "brand": "HBD",
+      "category": "Impressão metálica 3D",
+      "page": "https://maproc.pt/",
+      "name": "HBD 400",
+      "specs": [],
+      "catalog_url": "https://en.hb3dp.com/public/html/pdfjs/viewer/viewernew.html?file=https://v4.cecdn.yun300.cn/100001_2006305234/HBD%20400%20(20240319).pdf"
+    },
+    {
+      "brand": "HBD",
+      "category": "Impressão metálica 3D",
+      "page": "https://maproc.pt/",
+      "name": "HBD150 / HBD150D",
+      "specs": [],
+      "catalog_url": "https://v4.cecdn.yun300.cn/100001_2006305234/HBD-150D%20%2820240108%29.pdf"
+    },
+    {
+      "brand": "HBD",
+      "category": "Impressão metálica 3D",
+      "page": "https://maproc.pt/",
+      "name": "HBD350",
+      "specs": [],
+      "catalog_url": "https://v4.cecdn.yun300.cn/100001_2006305234/HBD%20350%20%28202310%29.pdf"
+    },
+    {
+      "brand": "HBD",
+      "category": "Impressão metálica 3D",
+      "page": "https://maproc.pt/",
+      "name": "HBD 500",
+      "specs": [],
+      "catalog_url": "https://v4.cecdn.yun300.cn/100001_2006305234/HBD%20E500%20%2820240108%29.pdf",
+      "note": "PDF is titled 'HBD E500'."
+    }
+  ]
+}

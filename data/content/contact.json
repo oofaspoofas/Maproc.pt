@@ -1,0 +1,89 @@
+{
+  "slug": "contact",
+  "title": "Contact - MAPROC | WE SERVE SUCCESS",
+  "canonical": "https://maproc.pt/contact/",
+  "meta_description": "Sede Seg- Sab 08.30 – 20.00 +351 234 096 465 comercial@maproc.pt Gafanha da Nazaré Praia da Barra, Ílhavo, Aveiro PORTUGAL Entrar em contacto Entre em contacto connosco, no prazo máximo de 24h entramos em contacto. Qual a resposta? 5 x 1",
+  "og_image": "https://maproc.pt/wp-content/uploads/2024/06/desktop1.jpg",
+  "language": "pt-PT",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/03/logo1.png",
+      "alt": "MAPROC | WE SERVE SUCCESS"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sede"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Entrar em contacto"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre em contacto connosco, no prazo máximo de 24h entramos em contacto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Qual a resposta? 6 x 2"
+    }
+  ],
+  "widgets": [
+    {
+      "widget": "rs-service-grid",
+      "text": [
+        "Sede",
+        "Seg- Sab 08.30 - 20.00"
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-contact-box",
+      "text": [
+        "+351 234 096 465",
+        "[email protected]",
+        "Gafanha da Nazaré",
+        "Praia da Barra, Ílhavo, Aveiro",
+        "PORTUGAL"
+      ],
+      "images": [],
+      "links": [
+        {
+          "text": "+351 234 096 465",
+          "href": "tel:+351234096465"
+        },
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#e98a86848c9b8a808885a98488999b868ac7999d"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "widget": "rs-heading",
+      "text": [
+        "Entrar em contacto",
+        "Entre em contacto connosco, no prazo máximo de 24h entramos em contacto."
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-cf7",
+      "text": [
+        "Qual a resposta?",
+        "6",
+        "x",
+        "2"
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    }
+  ]
+}

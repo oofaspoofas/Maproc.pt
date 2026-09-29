@@ -1,0 +1,874 @@
+{
+  "slug": "home",
+  "title": "MAPROC: Máquinas para chapa",
+  "canonical": "https://maproc.pt/",
+  "meta_description": "Máquinas para chapa, A MAPROC é especializada em máquinas corte a laser, em processos para chapa e equipamentos de corte e deformação.",
+  "og_image": "https://maproc.pt/wp-content/uploads/2024/05/sobrenos.jpg",
+  "language": "pt-PT",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/03/logo1.png",
+      "alt": "MAPROC | WE SERVE SUCCESS"
+    },
+    {
+      "type": "image",
+      "src": "//maproc.pt/wp-content/plugins/revslider/sr6/assets/assets/dummy.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://industrie.rstheme.com/main/wp-content/uploads/2024/01/arrow.svg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "//maproc.pt/wp-content/plugins/revslider/sr6/assets/assets/dummy.png",
+      "alt": "Maquina corte jato de agua"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Consultoria pró-ativa"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Formação"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Máquinas corte a laser"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Suporte"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "A Maproc com mais de 30 anos de experiência em lasers industriais."
+    },
+    {
+      "type": "paragraph",
+      "text": "O nosso objetivo é a promoção de tecnologias de produção no mercado metalúrgico e metalomecânico."
+    },
+    {
+      "type": "paragraph",
+      "text": "A MAPROC é especializada em máquinas corte a laser e em processos e equipamentos de corte e deformação de chapa, com mais de 30 anos de experiência em lasers industriais."
+    },
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/05/sobrenos.jpg",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/02/shape_img_new.png",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "A melhor escolha para o seu processo."
+    },
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2026/03/lvd.jpg",
+      "alt": "icon-image"
+    },
+    {
+      "type": "paragraph",
+      "text": "A série Easy-Form® são dobradeiras inteligentes e altamente precisas, através da integração de tecnologia de dobra adaptativa. Qualquer variação na espessura da chapa, encruamento por esforço e direção da fibra será corrigida em tempo real. Em capacidades de dobra de 80 a 640 tons."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Corte a laser",
+        "Corte de laser para tubo",
+        "Quinadoras"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2026/03/flow.jpg",
+      "alt": "icon-image"
+    },
+    {
+      "type": "paragraph",
+      "text": "Corte praticamente qualquer material, qualquer forma, qualquer espessura com um jato de água Flow"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Serie Mach",
+        "Echo Jet",
+        "Nano Jet"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Explore as nossas máquinas."
+    },
+    {
+      "type": "paragraph",
+      "text": "▼ ver mais fazer scroll para esquerda ▼"
+    },
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/06/mut1477936999890979049.jpg",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "ESAB Máquinas CNC"
+    },
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/05/icon.jpg",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "LVD corte tubo a laser"
+    },
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/05/quinadora.jpg",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "LVD Quinadoras"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Bystronic"
+    },
+    {
+      "type": "paragraph",
+      "text": "A melhor solução tecnológica para o seu negócio. Ao longo dos anos, crescemos tendo em conta as exigências dos nossos clientes e as exigências do mercado."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "HBD Máquinas aditivas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fundada em 2007 e localizada em Guangdong e Xangai, China, com certificação SGS-CE, ISO9001, AS9100D e mais de 200 tecnologias patenteadas e mais de 30 invenções patentes atendendo aeroespacial, odontológica, ortopédica, moldes e matrizes, automotiva, petróleo e gás, educação e pesquisa, etc."
+    },
+    {
+      "type": "image",
+      "src": "https://img201.yun300.cn/repository/image/6089c097-3f65-486c-a001-1cd66c0437e9.png_640xaf.png?tenantId=202212&viewType=1&k=1716434812000",
+      "alt": "Máquina impressão 3D HBD 400"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "HBD 400"
+    },
+    {
+      "type": "image",
+      "src": "https://img201.yun300.cn/repository/image/9eb6fc63-27a2-4d7f-9223-ba05297f40ab.png_640xaf.png?tenantId=202212&viewType=1&k=1716434812000",
+      "alt": "Máquina Impressao metalica 3D"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "HBD150/150D"
+    },
+    {
+      "type": "image",
+      "src": "https://img201.yun300.cn/repository/image/4ade64eb-ea89-4720-810b-4ebd4dfa4d3b.png_640xaf.png?tenantId=202212&viewType=1&k=1716434812000",
+      "alt": "máquina Impressão metálica 3D HBD 350"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "HBD350"
+    },
+    {
+      "type": "image",
+      "src": "https://img201.yun300.cn/repository/image/a4244c27-3106-4a63-834d-da7853dae04f.png_640xaf.png?tenantId=202212&viewType=1&k=1716434812000",
+      "alt": "Impressao metalica 3D HDD"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "HBD 500"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Representante Oficial"
+    },
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2026/03/transferir.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/05/flow-waterjet-logo.jpg",
+      "alt": "flow waterjet logo"
+    },
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/05/esab-logo.png",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/05/hdb-logo2.jpg",
+      "alt": "hdb logo"
+    },
+    {
+      "type": "image",
+      "src": "https://maproc.pt/wp-content/uploads/2024/05/voortman-logo.jpg",
+      "alt": "voortman logo"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tem um projecto? Conte connosco."
+    },
+    {
+      "type": "paragraph",
+      "text": "Um especialista entrará em contato o mais breve possível para aconselhá-lo pessoalmente em tudo que precisa."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Aveiro, PORTUGAL"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gafanha da Nazaré"
+    },
+    {
+      "type": "paragraph",
+      "text": "Praia da Barra, Ílhavo, Aveiro"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Telemóvel"
+    },
+    {
+      "type": "paragraph",
+      "text": "234096465"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Email"
+    },
+    {
+      "type": "paragraph",
+      "text": "Departamento Comercial [email protected]"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hórario"
+    },
+    {
+      "type": "paragraph",
+      "text": "Seg- Sex: 08:30 - 20:00h"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Entre em contacto"
+    },
+    {
+      "type": "paragraph",
+      "text": "Entramos em contacto assim que possivel. Num prazo máximo de 24h."
+    },
+    {
+      "type": "paragraph",
+      "text": "0+8=?"
+    }
+  ],
+  "widgets": [
+    {
+      "widget": "slider_revolution",
+      "text": [
+        "Avançamos consigo.",
+        "Seja pioneiro na tecnologia.",
+        "Nas últimas décadas, testemunhamos a evolução da tecnologia. Comprometidos em liderar a inovação, esforçamos para fornecer soluções que vão além das suas expectativas. Avançe connosco!",
+        "Conheça-nos",
+        "Email.",
+        "[email protected]",
+        "Tele.",
+        "+351 919 847 589",
+        "Qual é o equipamento de corte com jato de água ideal para você?",
+        "Veja todas as máquinas da Série MACH",
+        "Ver equipamentos",
+        "Email.",
+        "[email protected]",
+        "Tele.",
+        "+351 919 847 589"
+      ],
+      "images": [
+        {
+          "src": "https://industrie.rstheme.com/main/wp-content/uploads/2024/01/arrow.svg",
+          "alt": ""
+        }
+      ],
+      "links": [
+        {
+          "text": "Conheça-nos",
+          "href": "https://maproc.pt/contact/"
+        },
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection"
+        },
+        {
+          "text": "",
+          "href": "https://www.youtube.com/watch?v=m9wsTmZPO-c"
+        },
+        {
+          "text": "",
+          "href": "https://www.youtube.com/watch?v=ycHS9QzxS0c&t=16s"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "widget": "rs-service-grid",
+      "text": [
+        "01",
+        "Consultoria pró-ativa",
+        "Analisamos se a máquina de corte a laser é mantida adequadamente nas instalações do cliente e operada por pessoal qualificado."
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-service-grid",
+      "text": [
+        "Ex",
+        "Formação",
+        "Os nossos instrutores levam ao cliente conhecimento do setor e experiência prática para cada formação."
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-service-grid",
+      "text": [
+        "EQ",
+        "Máquinas corte a laser",
+        "Tecnologia de corte de alta potência, produção automatizada flexível, tecnologia de quinagem, produtos e serviços de corte de ultraprecisão."
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-service-grid",
+      "text": [
+        "04",
+        "Suporte",
+        "A MAPROC está sempre ao seu lado para ajudá-lo a resolver vários problemas antes e depois da compra."
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-heading",
+      "text": [
+        "Sobre nós",
+        "A Maproc com mais de 30 anos de experiência em lasers industriais."
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-heading",
+      "text": [
+        "O nosso objetivo é a promoção de tecnologias de produção no mercado metalúrgico e metalomecânico.",
+        "A MAPROC é especializada em máquinas corte a laser e em processos e equipamentos de corte e deformação de chapa, com mais de 30 anos de experiência em lasers industriais."
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-button",
+      "text": [
+        "Conheça-nos"
+      ],
+      "images": [],
+      "links": [
+        {
+          "text": "Conheça-nos",
+          "href": "https://maproc.pt/contact/"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "widget": "image",
+      "text": [],
+      "images": [
+        {
+          "src": "https://maproc.pt/wp-content/uploads/2024/05/sobrenos.jpg",
+          "alt": ""
+        }
+      ],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-counter",
+      "text": [
+        "00",
+        "Anos de Experiência"
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-counter",
+      "text": [
+        "000",
+        "+",
+        "Quinadoras"
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-counter",
+      "text": [
+        "000",
+        "+",
+        "Punçonadoras"
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-counter",
+      "text": [
+        "000",
+        "+",
+        "Lasers"
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "image",
+      "text": [],
+      "images": [
+        {
+          "src": "https://maproc.pt/wp-content/uploads/2024/02/shape_img_new.png",
+          "alt": ""
+        }
+      ],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-heading",
+      "text": [
+        "Processamento de chapa",
+        "A melhor escolha para o seu processo."
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-button",
+      "text": [
+        "Solução Corte a Laser"
+      ],
+      "images": [],
+      "links": [
+        {
+          "text": "Solução Corte a Laser",
+          "href": "https://maproc.pt/portfolios/maquinas-corte-laser/"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "widget": "rs-tab-advanced",
+      "text": [
+        "Quinadoras hidráulicas de última geração",
+        "A série Easy-Form® são dobradeiras inteligentes e altamente precisas, através da integração de tecnologia de dobra adaptativa. Qualquer variação na espessura da chapa, encruamento por esforço e direção da fibra será corrigida em tempo real. Em capacidades de dobra de 80 a 640 tons.",
+        "Corte a laser",
+        "Corte de laser para tubo",
+        "Quinadoras",
+        "Saiba mais",
+        "Tecnologia de Corte com Jato de Água.",
+        "Corte praticamente qualquer material, qualquer forma, qualquer espessura com um jato de água Flow",
+        "Serie Mach",
+        "Echo Jet",
+        "Nano Jet",
+        "Saber mais",
+        "LVD",
+        "Quinadoras hidráulicas de última geração",
+        "A série Easy-Form® são dobradeiras inteligentes e altamente precisas, através da integração de tecnologia de dobra adaptativa. Qualquer variação na espessura da chapa, encruamento por esforço e direção da fibra será corrigida em tempo real. Em capacidades de dobra de 80 a 640 tons.",
+        "Corte a laser",
+        "Corte de laser para tubo",
+        "Quinadoras",
+        "Saiba mais",
+        "Flow",
+        "Tecnologia de Corte com Jato de Água.",
+        "Corte praticamente qualquer material, qualquer forma, qualquer espessura com um jato de água Flow",
+        "Serie Mach",
+        "Echo Jet",
+        "Nano Jet",
+        "Saber mais"
+      ],
+      "images": [
+        {
+          "src": "https://maproc.pt/wp-content/uploads/2026/03/lvd.jpg",
+          "alt": "icon-image"
+        },
+        {
+          "src": "https://maproc.pt/wp-content/uploads/2026/03/flow.jpg",
+          "alt": "icon-image"
+        }
+      ],
+      "links": [
+        {
+          "text": "Saiba mais",
+          "href": "https://maproc.pt/contact/"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "widget": "rs-heading",
+      "text": [
+        "tecnologias",
+        "Explore as nossas máquinas."
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "text-editor",
+      "text": [
+        "▼ ver mais fazer scroll para esquerda ▼"
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "portfolio-slider",
+      "text": [
+        "ESAB Máquinas CNC",
+        "LVD corte tubo a laser",
+        "LVD Quinadoras",
+        "Bystronic"
+      ],
+      "images": [
+        {
+          "src": "https://maproc.pt/wp-content/uploads/2024/06/mut1477936999890979049.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://maproc.pt/wp-content/uploads/2024/05/icon.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://maproc.pt/wp-content/uploads/2024/05/quinadora.jpg",
+          "alt": ""
+        }
+      ],
+      "links": [
+        {
+          "text": "ESAB Máquinas CNC",
+          "href": "https://maproc.pt/portfolios/esab-maquinas-cnc/"
+        },
+        {
+          "text": "LVD corte tubo a laser",
+          "href": "https://maproc.pt/portfolios/corte-laser-tubo/"
+        },
+        {
+          "text": "LVD Quinadoras",
+          "href": "https://maproc.pt/portfolios/quinadoras-novas/"
+        },
+        {
+          "text": "Bystronic",
+          "href": "https://maproc.pt/portfolios/maquinas-corte-laser/"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "widget": "rs-counter",
+      "text": [
+        "000",
+        "Projectos com sucesso"
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "text-editor",
+      "text": [
+        "A melhor solução tecnológica para o seu negócio. Ao longo dos anos, crescemos tendo em conta as exigências dos nossos clientes e as exigências do mercado."
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-button",
+      "text": [
+        "Consultar & Cotação"
+      ],
+      "images": [],
+      "links": [
+        {
+          "text": "Consultar & Cotação",
+          "href": "https://maproc.pt/contact/"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "widget": "rs-heading",
+      "text": [
+        "Impressão metálica 3d : HBD",
+        "HBD Máquinas aditivas",
+        "Fundada em 2007 e localizada em Guangdong e Xangai, China, com certificação SGS-CE, ISO9001, AS9100D e mais de 200 tecnologias patenteadas e mais de 30 invenções patentes atendendo aeroespacial, odontológica, ortopédica, moldes e matrizes, automotiva, petróleo e gás, educação e pesquisa, etc."
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-button",
+      "text": [
+        "Consulte-nos"
+      ],
+      "images": [],
+      "links": [
+        {
+          "text": "Consulte-nos",
+          "href": "https://maproc.pt/contact/"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "widget": "rs-service-slider",
+      "text": [
+        "HBD 400",
+        "O HBD 400 oferece tamanhos de conformação convencionais e permite a operação simultânea de até seis lasers. Empregando tecnologias avançadas.",
+        "01",
+        "Download PDF",
+        "HBD150/150D",
+        "Com placa de base redonda no tamanho de φ159mm, o HBD 150 / 150D é equipado com sistema de purificação de atmosfera independente, eficiente e seguro, estrutura de luva selada.",
+        "02",
+        "Download PDF",
+        "HBD350",
+        "Como equipamento de impressão de alta eficiência e alta qualidade, com tamanho de formação convencional, a série HBD 350 é compatível com configuração de laser simples, duplo e triplo, sistema de revestimento e fornecimento de pó eficiente e estável.",
+        "03",
+        "Download PDF",
+        "HBD 500",
+        "Com um grande tamanho de conformação preponderante, configuração multi-laser eficiente, excelente desempenho em campo eólico e sistema inteligente de monitoramento de recobrimento em pó.",
+        "04",
+        "Download PDF"
+      ],
+      "images": [
+        {
+          "src": "https://img201.yun300.cn/repository/image/6089c097-3f65-486c-a001-1cd66c0437e9.png_640xaf.png?tenantId=202212&viewType=1&k=1716434812000",
+          "alt": "Máquina impressão 3D HBD 400"
+        },
+        {
+          "src": "https://img201.yun300.cn/repository/image/9eb6fc63-27a2-4d7f-9223-ba05297f40ab.png_640xaf.png?tenantId=202212&viewType=1&k=1716434812000",
+          "alt": "Máquina Impressao metalica 3D"
+        },
+        {
+          "src": "https://img201.yun300.cn/repository/image/4ade64eb-ea89-4720-810b-4ebd4dfa4d3b.png_640xaf.png?tenantId=202212&viewType=1&k=1716434812000",
+          "alt": "máquina Impressão metálica 3D HBD 350"
+        },
+        {
+          "src": "https://img201.yun300.cn/repository/image/a4244c27-3106-4a63-834d-da7853dae04f.png_640xaf.png?tenantId=202212&viewType=1&k=1716434812000",
+          "alt": "Impressao metalica 3D HDD"
+        }
+      ],
+      "links": [
+        {
+          "text": "HBD 400",
+          "href": "https://en.hb3dp.com/public/html/pdfjs/viewer/viewernew.html?file=https://v4.cecdn.yun300.cn/100001_2006305234/HBD%20400%20(20240319).pdf"
+        },
+        {
+          "text": "HBD150/150D",
+          "href": "https://v4.cecdn.yun300.cn/100001_2006305234/HBD-150D%20%2820240108%29.pdf"
+        },
+        {
+          "text": "HBD350",
+          "href": "https://v4.cecdn.yun300.cn/100001_2006305234/HBD%20350%20%28202310%29.pdf"
+        },
+        {
+          "text": "HBD 500",
+          "href": "https://v4.cecdn.yun300.cn/100001_2006305234/HBD%20E500%20%2820240108%29.pdf"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "widget": "rs-heading",
+      "text": [
+        "Portugal",
+        "Representante Oficial"
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-logo",
+      "text": [],
+      "images": [
+        {
+          "src": "https://maproc.pt/wp-content/uploads/2026/03/transferir.png",
+          "alt": ""
+        },
+        {
+          "src": "https://maproc.pt/wp-content/uploads/2024/05/flow-waterjet-logo.jpg",
+          "alt": "flow waterjet logo"
+        },
+        {
+          "src": "https://maproc.pt/wp-content/uploads/2024/05/esab-logo.png",
+          "alt": ""
+        },
+        {
+          "src": "https://maproc.pt/wp-content/uploads/2024/05/hdb-logo2.jpg",
+          "alt": "hdb logo"
+        },
+        {
+          "src": "https://maproc.pt/wp-content/uploads/2024/05/voortman-logo.jpg",
+          "alt": "voortman logo"
+        }
+      ],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-gsap-marquee-slide",
+      "text": [
+        "NEWS: Orientação estratégica para o sucesso empresarial. Eleve suas operações com nossa consultoria especializada."
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-heading",
+      "text": [
+        "Contactos",
+        "Tem um projecto? Conte connosco.",
+        "Um especialista entrará em contato o mais breve possível para aconselhá-lo",
+        "pessoalmente em tudo que precisa."
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-iconbox",
+      "text": [
+        "Aveiro, PORTUGAL",
+        "Gafanha da Nazaré",
+        "Praia da Barra, Ílhavo, Aveiro"
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-iconbox",
+      "text": [
+        "Telemóvel",
+        "234096465"
+      ],
+      "images": [],
+      "links": [
+        {
+          "text": "234096465",
+          "href": "tel:234096465"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "widget": "rs-iconbox",
+      "text": [
+        "Email",
+        "Departamento Comercial",
+        "[email protected]"
+      ],
+      "images": [],
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#fa9995979f8899939b96ba979b8a889599d48a8e"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "widget": "rs-iconbox",
+      "text": [
+        "Hórario",
+        "Seg- Sex: 08:30 - 20:00h"
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-heading",
+      "text": [
+        "Entre em contacto",
+        "Entramos em contacto assim que possivel. Num prazo máximo de 24h."
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    },
+    {
+      "widget": "rs-cf7",
+      "text": [
+        "0+8=?"
+      ],
+      "images": [],
+      "links": [],
+      "videos": []
+    }
+  ]
+}
