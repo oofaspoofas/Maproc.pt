@@ -1,6 +1,8 @@
 # Maproc.pt redesign — prototype design
 
-Date: 2026-09-29 · Status: awaiting user review
+Date: 2026-09-29 · Status: prototype build authorised 2026-09-30; implemented, awaiting visual feedback.
+
+Implementation decisions and validation: `docs/BUILD-LOG.md`. Content parity and launch blockers: `docs/REVIEW.md`. The implementation uses custom components without shadcn, as the implementation plan specifies.
 
 ## Goal
 A design prototype of a tasteful, dynamic redesign of maproc.pt: cinematic and polished (inspired by the

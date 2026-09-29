@@ -13,9 +13,20 @@ left out (see "Known source-site issues"), say so.
 ## Status
 - [x] Repo initialised, remote connected
 - [x] Source site scraped (content, structure, assets) — see "Data" below
-- [ ] Stack decision (open — see "Open decisions")
-- [ ] Design direction / brand refresh
-- [ ] Build
+- [x] Prototype stack: Next.js App Router + TypeScript + Tailwind v4 (authorised 2026-09-30)
+- [x] Prototype direction: existing navy/orange identity, dark opening/closing, light product sections
+- [x] Two-page prototype implemented in `web/`: homepage and Bystronic laser page
+- [ ] Full website build, client content review, live forms, and production cut-over
+
+## Current development (2026-09-30)
+- Read `AGENTS.md` for assistant-neutral project entry instructions; this file remains primary documentation.
+- App: `web/`. Run `cd web && npm ci && npm run dev` (local preview at http://localhost:3000).
+- Validation: `npm test`, `npm run lint`, `npm run build`, `npm run test:e2e` from `web/`.
+- Images are allowlisted and converted to local WebP before dev/build; original assets and scraped content remain unchanged.
+- Prototype uses custom components (no shadcn), self-hosted Manrope, Phosphor icons, opt-in video embeds and reduced-motion support.
+- Both implemented URLs retain source meta descriptions/canonicals. Prototype is deliberately `noindex` until launch.
+- `docs/REVIEW.md` tracks content parity, deliberate omissions and client questions. `docs/BUILD-LOG.md` records implementation decisions and validation.
+- Forms are visibly disabled in the prototype. Working email/telephone links remain available. No live site deployment has occurred.
 
 ## The source site (as of 2026-09-29)
 WordPress + Elementor (theme: "Industrie" by rstheme, demo leftovers throughout), Revolution Slider, Mailster
@@ -94,13 +105,12 @@ business content. The remainder is stock from the "Industrie" theme demo (team p
 - Keep SEO equity: preserve or 301-redirect every old URL above; carry over meta descriptions from `data/content/*.json`.
 - Optimise/convert images (WebP/AVIF) at build; keep originals in `data/assets/`.
 - No secrets in git. `.env*` is ignored.
-- Commit small, descriptive commits on `main` and push to `origin`. Commit trailer: `Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>`.
+- Commit small, descriptive commits on `main` and push to `origin`. Attribute contributions to the assistant that actually worked on them; do not use a Claude trailer for Codex work.
 
 ## Open decisions (ask the user before assuming)
-- **Stack.** Not chosen yet. Leading candidate: Next.js (App Router) + TypeScript + Tailwind/shadcn, content from `data/content/*.json`,
-  deployed on Vercel. Alternative: Astro (content-heavy, mostly static). Needs the user's OK.
+- **Production stack/hosting.** Next.js (App Router) + TypeScript + Tailwind, reading `data/content/*.json`, is approved and implemented for the prototype. Production hosting and any CMS remain undecided; no Vercel deployment has been requested.
 - **Editing workflow:** does the business need to edit content themselves (headless CMS) or is developer-maintained fine?
 - **Languages:** Portuguese only, or add English/Spanish (territory is Portugal/Spain)?
-- **Brand:** keep the current logo/colours (`data/assets/maproc/logo1.png`) or refresh? Brand colours not yet extracted.
+- **Brand:** prototype retains the logo and sampled navy `#003686` / orange `#ff6700`. Uses accessible darker orange `#bc4200` for text on light surfaces. Any broader identity refresh remains undecided.
 - **Domain/hosting** cut-over plan and who controls DNS.
 - Missing content the client must supply (Flow models, ESAB descriptions, Voortman, Estrutura Metálica, HBD descriptions).
